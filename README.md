@@ -1,5 +1,5 @@
 <p>
-  <img src="https://assets.solidjs.com/banner?project=Solid%20Documentation&type=core" alt="Solid Documentation" />
+  <img src="https://assets.solidjs.com/banner?project=Solid%20Docs&type=Core&version=2.0&v=20261116" alt="Solid Docs" />
 </p>
 
 
